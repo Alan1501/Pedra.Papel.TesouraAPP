@@ -85,4 +85,5 @@ public class MainActivity extends AppCompatActivity {
         TextView texto = findViewById(R.id.ResultadoAPP);
         texto.setText( " " + opcaoApp);
     }
+    
 }
